@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/desplugou/static/css/main.ec0b4dae.css",
-    "main.js": "/desplugou/static/js/main.76930457.js",
+    "main.js": "/desplugou/static/js/main.4c17e389.js",
     "index.html": "/desplugou/index.html",
     "main.ec0b4dae.css.map": "/desplugou/static/css/main.ec0b4dae.css.map",
-    "main.76930457.js.map": "/desplugou/static/js/main.76930457.js.map"
+    "main.4c17e389.js.map": "/desplugou/static/js/main.4c17e389.js.map"
   },
   "entrypoints": [
     "static/css/main.ec0b4dae.css",
-    "static/js/main.76930457.js"
+    "static/js/main.4c17e389.js"
   ]
 }
