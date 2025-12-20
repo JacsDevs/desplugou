@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/desplugou/static/css/main.ec0b4dae.css",
-    "main.js": "/desplugou/static/js/main.4c17e389.js",
+    "main.css": "/desplugou/static/css/main.5026d4de.css",
+    "main.js": "/desplugou/static/js/main.10553618.js",
+    "static/media/Professora.svg": "/desplugou/static/media/Professora.804cf5f138ac70716df927d2afc49604.svg",
+    "static/media/logo.svg": "/desplugou/static/media/logo.2fc8640e947e0b9eb957dafb5f84424c.svg",
     "index.html": "/desplugou/index.html",
-    "main.ec0b4dae.css.map": "/desplugou/static/css/main.ec0b4dae.css.map",
-    "main.4c17e389.js.map": "/desplugou/static/js/main.4c17e389.js.map"
+    "main.5026d4de.css.map": "/desplugou/static/css/main.5026d4de.css.map",
+    "main.10553618.js.map": "/desplugou/static/js/main.10553618.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec0b4dae.css",
-    "static/js/main.4c17e389.js"
+    "static/css/main.5026d4de.css",
+    "static/js/main.10553618.js"
   ]
 }
