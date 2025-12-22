@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/desplugou/static/css/main.022476e5.css",
-    "main.js": "/desplugou/static/js/main.a209709e.js",
+    "main.css": "/desplugou/static/css/main.020b8dd8.css",
+    "main.js": "/desplugou/static/js/main.cd83d943.js",
     "static/media/Professora.svg": "/desplugou/static/media/Professora.804cf5f138ac70716df927d2afc49604.svg",
     "static/media/bncc-mec.png": "/desplugou/static/media/bncc-mec.ebef43865e95b27de5c3.png",
     "static/media/logo.svg": "/desplugou/static/media/logo.2fc8640e947e0b9eb957dafb5f84424c.svg",
+    "static/media/logoreduzidalaranja.svg": "/desplugou/static/media/logoreduzidalaranja.a75ad9fe345efc5122c11c06febbe8d2.svg",
     "index.html": "/desplugou/index.html",
-    "main.022476e5.css.map": "/desplugou/static/css/main.022476e5.css.map",
-    "main.a209709e.js.map": "/desplugou/static/js/main.a209709e.js.map"
+    "main.020b8dd8.css.map": "/desplugou/static/css/main.020b8dd8.css.map",
+    "main.cd83d943.js.map": "/desplugou/static/js/main.cd83d943.js.map"
   },
   "entrypoints": [
-    "static/css/main.022476e5.css",
-    "static/js/main.a209709e.js"
+    "static/css/main.020b8dd8.css",
+    "static/js/main.cd83d943.js"
   ]
 }
